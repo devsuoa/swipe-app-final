@@ -13,7 +13,7 @@ const SCREEN_WIDTH = Dimensions.get('window').width;
 const SWIPE_THRESHOLD = SCREEN_WIDTH * 0.25;
 const SWIPE_OUT_DURATION = 250;
 
-class Swiper extends Component {
+export class Swiper extends Component {
     static defaultProps = {
         // if the user does not pass in these props, we just use an empty function
         onSwipeRight: () => {},
