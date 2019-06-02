@@ -1,16 +1,21 @@
-# Welcome to Workshop Three!
+# Swipe
 
+The DEVS Workshop Series walks through building an application using React Native but through a practical **product-based** mindset. The recordings are available below.
 
-# Pre-requisites 
+A big thank you to everyone who participated!
 
-The pre-requistes for this workshop can be found here: https://github.com/devsuoa/workshop-one
+# Pre-requisites/Instructions 
+
+The pre-requistes for this app can be found here: https://github.com/devsuoa/workshop-one
+
+## Workshop Three Recording
+
+Recording: https://drive.google.com/open?id=1txfSOYJ0SEISZIXSrjn2yHym3fSo0yDt
 
 ## Workshop Two Recording
 
 Recording: https://drive.google.com/file/d/166PVgKSbP_xCqKVHsF-P9zq1hVSBcyDz/view
 
 ## Workshop One Recording
-
-A big thank you to everyone who attended workshop one.
 
 The recording is available here: https://drive.google.com/open?id=1tCGRYzMrdPTV6VOKEscXOZvNNioi_KrM
